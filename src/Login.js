@@ -34,7 +34,7 @@ const Login = (props) => {
          }
          else
          {
-            alert("Enter valid password");
+            alert("Enter valid Password \n 1 Capital latter \n 1 special character \n 8 letter");
          }
       }
       else
